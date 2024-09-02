@@ -8,7 +8,6 @@
 ;; Modified: septiembre 02, 2024
 ;; Version: 0.0.1
 ;; Homepage: https://github.com/rafapaezbas/github-pointer-mode
-;; Package-Requires: ((emacs "24.4"))
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
