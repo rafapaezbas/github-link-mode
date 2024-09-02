@@ -8,7 +8,7 @@
 ;; Modified: septiembre 02, 2024
 ;; Version: 0.0.1
 ;; Homepage: https://github.com/rafapaezbas/github-pointer-mode
-;; Package-Requires: ((emacs "24.4") (projectile "2.8"))
+;; Package-Requires: ((emacs "24.4"))
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
@@ -19,8 +19,10 @@
 ;; C-c g l: `github-pointer-line': Copy region/line github url to clipboard
 ;;
 ;; C-c g f: `github-pointer-file': Copy file github file url to clipboard
-;; the buffer's file.
+;;
 ;;  Description
+;;
+;;  Copy github url to clipboard from highlighted region of buffer
 ;;
 ;;; Code:
 
