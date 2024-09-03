@@ -1,6 +1,9 @@
 # Github-link-mode
 
-Minor Emacs mode that provides keybindings to generate a github url from a line,region or file and copies the link to the clipboard
+Minor Emacs mode that provides keybindings to generate a github url from a line,region or file and copies the link to the clipboard.
+
+![image](https://github.com/user-attachments/assets/bad4ab67-195f-49b2-8cc4-31b9f62c6b87)
+
 
 ## Installation
 
