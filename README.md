@@ -6,7 +6,7 @@ Minor Emacs mode that provides keybindings to generate a github url from a line,
 
 ## Installation
 
-This package require [Projectile](https://github.com/bbatsov/projectile/) and Emacs 24.4.
+This package requires [Projectile](https://github.com/bbatsov/projectile/) and Emacs 24.4.
 
 package.el:
 
